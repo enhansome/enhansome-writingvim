@@ -33,7 +33,7 @@
             "last_commit": "2026-08-07T19:30:19Z",
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6342
+            "stars": 6343
           }
         },
         {
@@ -479,7 +479,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17944
+            "stars": 17943
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:36:27.171Z",
+    "last_updated": "2026-08-13T18:00:22.034Z",
     "original_repository": "phantomdiorama/writingvim",
     "original_repository_sha": "631cc26fceff13543bc0ca10da8f61a88c7a62b2",
     "enhanced_repository": "enhansome/enhansome-writingvim",
