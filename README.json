@@ -19,7 +19,7 @@
             "last_commit": "2026-04-30T18:15:10Z",
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9505
+            "stars": 9507
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "TeX",
-            "last_commit": "2026-08-14T11:11:01Z",
+            "last_commit": "2026-08-15T15:12:25Z",
             "owner": "lervag",
             "repo": "vimtex",
             "stars": 6343
@@ -47,7 +47,7 @@
             "last_commit": "2025-12-21T09:46:00Z",
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4688
+            "stars": 4689
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2024-08-07T21:16:02Z",
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2958
+            "stars": 2957
           }
         },
         {
@@ -479,7 +479,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17940
+            "stars": 17941
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:56:13.057Z",
+    "last_updated": "2026-08-15T17:26:58.399Z",
     "original_repository": "phantomdiorama/writingvim",
     "original_repository_sha": "631cc26fceff13543bc0ca10da8f61a88c7a62b2",
     "enhanced_repository": "enhansome/enhansome-writingvim",
