@@ -479,7 +479,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17941
+            "stars": 17940
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:26:58.399Z",
+    "last_updated": "2026-08-16T17:25:30.145Z",
     "original_repository": "phantomdiorama/writingvim",
     "original_repository_sha": "631cc26fceff13543bc0ca10da8f61a88c7a62b2",
     "enhanced_repository": "enhansome/enhansome-writingvim",
