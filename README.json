@@ -33,7 +33,7 @@
             "last_commit": "2026-08-15T15:12:25Z",
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6345
+            "stars": 6346
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2024-08-07T21:16:02Z",
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2957
+            "stars": 2958
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-11-07T12:41:19Z",
             "owner": "vim-pandoc",
             "repo": "vim-pandoc",
-            "stars": 965
+            "stars": 967
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2026-01-25T07:31:45Z",
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -479,7 +479,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17943
+            "stars": 17944
           }
         },
         {
@@ -493,7 +493,7 @@
             "last_commit": "2023-05-19T10:04:27Z",
             "owner": "romainl",
             "repo": "idiomatic-vimrc",
-            "stars": 1195
+            "stars": 1196
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:33:50.295Z",
+    "last_updated": "2026-08-18T17:34:26.762Z",
     "original_repository": "phantomdiorama/writingvim",
     "original_repository_sha": "631cc26fceff13543bc0ca10da8f61a88c7a62b2",
     "enhanced_repository": "enhansome/enhansome-writingvim",
