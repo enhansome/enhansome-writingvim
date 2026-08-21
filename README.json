@@ -27,7 +27,7 @@
             "archived": false,
             "id": 13344397,
             "language": "TeX",
-            "last_commit": "2026-08-20T07:05:03Z",
+            "last_commit": "2026-08-21T17:30:46Z",
             "owner": "lervag",
             "repo": "vimtex",
             "stars": 6351
@@ -60,7 +60,7 @@
             "last_commit": "2024-08-07T21:16:02Z",
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2958
+            "stars": 2957
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-01-25T07:31:45Z",
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1059
+            "stars": 1060
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17950
+            "stars": 17954
           }
         },
         {
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:36:23.317Z",
+    "last_updated": "2026-08-21T17:35:51.562Z",
     "original_repository": "phantomdiorama/writingvim",
     "original_repository_id": 540701823,
     "original_repository_sha": "631cc26fceff13543bc0ca10da8f61a88c7a62b2",
