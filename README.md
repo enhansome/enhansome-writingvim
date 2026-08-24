@@ -123,7 +123,7 @@ there’s many markup languages to choose from:
 * [Djot](https://djot.net/) is a new attempt at refining Markdown.
 * [Fountain](https://fountain.io/) is a markup language for writing screenplays.
 * [LaTex](https://en.wikipedia.org/wiki/LaTeX) is the grandma of markup languages. Big and intimidating. Used in academia. A little beyond the scope for us.
-* [Typst](https://github.com/typst/typst) ⭐ 55,636 | 🐛 1,287 | 🌐 Rust | 📅 2026-08-24 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
+* [Typst](https://github.com/typst/typst) ⭐ 55,646 | 🐛 1,280 | 🌐 Rust | 📅 2026-08-24 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
 * [txt2tags](https://txt2tags.org/) super minimal markup language
 * [reStructuredText](https://docutils.sourceforge.io/rst.html) perhaps markdown’s main rival
 
@@ -180,7 +180,7 @@ writing). Here are some good light themes:
 
 ## general vim resources
 
-* [vim galore](https://github.com/mhinz/vim-galore) ⭐ 17,957 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
+* [vim galore](https://github.com/mhinz/vim-galore) ⭐ 17,959 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
 * [Idiomatic Vimrc: Advice on writing your own config](https://github.com/romainl/idiomatic-vimrc) ⭐ 1,196 | 🐛 0 | 📅 2023-05-19 - romainl
 * [A Vim Cheatsheet](https://learnxinyminutes.com/docs/vim/)
 * [And another one](https://vim.rtorr.com/)
