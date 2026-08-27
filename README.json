@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T12:55:47Z",
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6351
+            "stars": 6352
           }
         },
         {
@@ -530,9 +530,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:10:01.283Z",
-    "original_repository": "phantomdiorama/writingvim",
-    "original_repository_id": 540701823,
+    "last_updated": "2026-08-27T12:14:11.437Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 540701823,
+      "language": "Vim Script",
+      "last_commit": "2025-11-20T02:48:46Z",
+      "owner": "phantomdiorama",
+      "repo": "writingvim",
+      "stars": 55
+    },
     "original_repository_sha": "631cc26fceff13543bc0ca10da8f61a88c7a62b2",
     "enhanced_repository": "enhansome/enhansome-writingvim",
     "enhanced_repository_description": null,
