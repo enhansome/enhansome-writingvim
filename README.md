@@ -123,7 +123,7 @@ there’s many markup languages to choose from:
 * [Djot](https://djot.net/) is a new attempt at refining Markdown.
 * [Fountain](https://fountain.io/) is a markup language for writing screenplays.
 * [LaTex](https://en.wikipedia.org/wiki/LaTeX) is the grandma of markup languages. Big and intimidating. Used in academia. A little beyond the scope for us.
-* [Typst](https://github.com/typst/typst) ⭐ 55,688 | 🐛 1,280 | 🌐 Rust | 📅 2026-08-26 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
+* [Typst](https://github.com/typst/typst) ⭐ 55,701 | 🐛 1,271 | 🌐 Rust | 📅 2026-08-27 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
 * [txt2tags](https://txt2tags.org/) super minimal markup language
 * [reStructuredText](https://docutils.sourceforge.io/rst.html) perhaps markdown’s main rival
 
@@ -136,8 +136,8 @@ This second step is optional.
 
 For information on installing plugins see this [video](http://vimcasts.org/episodes/packages/)
 
-* [vimwiki](https://github.com/vimwiki/vimwiki) ⭐ 9,513 | 🐛 230 | 🌐 Vim Script | 📅 2026-04-30. Personal Wiki for Vim
-* [vimtex](https://github.com/lervag/vimtex) ⭐ 6,352 | 🐛 2 | 🌐 TeX | 📅 2026-08-22. A modern Vim and neovim filetype plugin for LaTeX files
+* [vimwiki](https://github.com/vimwiki/vimwiki) ⭐ 9,514 | 🐛 230 | 🌐 Vim Script | 📅 2026-04-30. Personal Wiki for Vim
+* [vimtex](https://github.com/lervag/vimtex) ⭐ 6,351 | 🐛 2 | 🌐 TeX | 📅 2026-08-22. A modern Vim and neovim filetype plugin for LaTeX files
 * [goyo](https://github.com/junegunn/goyo.vim) ⭐ 4,689 | 🐛 80 | 🌐 Vim Script | 📅 2025-12-21. Distraction-free writing in Vim. Also [limelight](https://github.com/junegunn/limelight.vim) ⭐ 2,453 | 🐛 25 | 🌐 Vim Script | 📅 2026-03-09 by the same author
 * [abolish](https://github.com/tpope/vim-abolish) ⭐ 2,957 | 🐛 38 | 🌐 Vim Script | 📅 2024-08-07. Fancy find and replace :+1:
 * [targets.vim](https://github.com/wellle/targets.vim) ⭐ 2,643 | 🐛 58 | 🌐 Vim Script | 📅 2024-07-10. Vim plugin that provides extra text objects
@@ -174,13 +174,13 @@ writing). Here are some good light themes:
 * [Pencil](https://github.com/preservim/vim-colors-pencil) ⭐ 618 | 🐛 4 | 🌐 Vim script | 📅 2022-05-07
 * [Lucius](https://github.com/jonathanfilip/vim-lucius) ⭐ 422 | 🐛 8 | 🌐 Vim script | 📅 2021-05-15
 * [Paramount](https://github.com/owickstrom/vim-colors-paramount) ⭐ 275 | 🐛 2 | 🌐 Vim script | 📅 2019-01-09
-* [vim-paper](https://github.com/yorickpeterse/vim-paper) ⭐ 173 | 🐛 0 | 🌐 Vim Script | 📅 2025-02-15 :eyes:
+* [vim-paper](https://github.com/yorickpeterse/vim-paper) ⭐ 172 | 🐛 0 | 🌐 Vim Script | 📅 2025-02-15 :eyes:
 * [Paige](https://sr.ht/~leon_plickat/Paige/)
 * [Bruin](https://git.sr.ht/~romainl/vim-bruin)
 
 ## general vim resources
 
-* [vim galore](https://github.com/mhinz/vim-galore) ⭐ 17,962 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
+* [vim galore](https://github.com/mhinz/vim-galore) ⭐ 17,963 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
 * [Idiomatic Vimrc: Advice on writing your own config](https://github.com/romainl/idiomatic-vimrc) ⭐ 1,196 | 🐛 0 | 📅 2023-05-19 - romainl
 * [A Vim Cheatsheet](https://learnxinyminutes.com/docs/vim/)
 * [And another one](https://vim.rtorr.com/)
@@ -209,4 +209,4 @@ Suggestions are welcome! Please create an issue.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
