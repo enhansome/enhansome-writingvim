@@ -123,7 +123,7 @@ there’s many markup languages to choose from:
 * [Djot](https://djot.net/) is a new attempt at refining Markdown.
 * [Fountain](https://fountain.io/) is a markup language for writing screenplays.
 * [LaTex](https://en.wikipedia.org/wiki/LaTeX) is the grandma of markup languages. Big and intimidating. Used in academia. A little beyond the scope for us.
-* [Typst](https://github.com/typst/typst) ⭐ 55,718 | 🐛 1,273 | 🌐 Rust | 📅 2026-08-28 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
+* [Typst](https://github.com/typst/typst) ⭐ 55,717 | 🐛 1,275 | 🌐 Rust | 📅 2026-08-28 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
 * [txt2tags](https://txt2tags.org/) super minimal markup language
 * [reStructuredText](https://docutils.sourceforge.io/rst.html) perhaps markdown’s main rival
 
