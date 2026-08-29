@@ -16,7 +16,8 @@
             "owner": "vimwiki",
             "repo": "vimwiki",
             "stars": 9514
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 13344397,
             "language": "TeX",
-            "last_commit": "2026-08-22T12:55:47Z",
+            "last_commit": "2026-08-28T22:14:13Z",
             "owner": "lervag",
             "repo": "vimtex",
             "stars": 6351
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "junegunn",
             "repo": "goyo.vim",
             "stars": 4689
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tpope",
             "repo": "vim-abolish",
             "stars": 2957
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "wellle",
             "repo": "targets.vim",
             "stars": 2643
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2023-04-03T18:16:21Z",
             "owner": "preservim",
             "repo": "vim-pencil",
-            "stars": 1905
-          }
+            "stars": 1906
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "sjl",
             "repo": "gundo.vim",
             "stars": 1469
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "vim-pandoc",
             "repo": "vim-pandoc",
             "stars": 967
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "tommcdo",
             "repo": "vim-exchange",
             "stars": 785
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "preservim",
             "repo": "vim-wordy",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "chrisbra",
             "repo": "NrrwRgn",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "preservim",
             "repo": "vim-lexical",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "beloglazov",
             "repo": "vim-online-thesaurus",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "wellle",
             "repo": "visual-split.vim",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "dbmrq",
             "repo": "vim-ditto",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "preservim",
             "repo": "vim-textobj-quote",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "axvr",
             "repo": "org.vim",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "preservim",
             "repo": "vim-litecorrect",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "preservim",
             "repo": "vim-textobj-sentence",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "davidbeckingsale",
             "repo": "writegood.vim",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "merlinrebrovic",
             "repo": "focus.vim",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "kblin",
             "repo": "vim-fountain",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "ajorgensen",
             "repo": "vim-markdown-toc",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "preservim",
             "repo": "vim-wordchipper",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "Raimondi",
             "repo": "vim-lengthy",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "stevenjaycohen",
             "repo": "fountain4vim",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         }
       ],
       "title": "plugins for writing"
@@ -411,8 +437,9 @@
             "last_commit": "2026-01-25T07:31:45Z",
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1061
-          }
+            "stars": 1060
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "lifepillar",
             "repo": "vim-solarized8",
             "stars": 1046
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -441,8 +469,9 @@
             "last_commit": "2022-05-07T07:40:37Z",
             "owner": "preservim",
             "repo": "vim-colors-pencil",
-            "stars": 618
-          }
+            "stars": 619
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "jonathanfilip",
             "repo": "vim-lucius",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "owickstrom",
             "repo": "vim-colors-paramount",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "yorickpeterse",
             "repo": "vim-paper",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         }
       ],
       "title": "colorschemes"
@@ -507,8 +539,9 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17963
-          }
+            "stars": 17965
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         },
         {
           "node_type": "item",
@@ -523,14 +556,15 @@
             "owner": "romainl",
             "repo": "idiomatic-vimrc",
             "stars": 1196
-          }
+          },
+          "first_seen": "2026-08-29T00:55:50.990Z"
         }
       ],
       "title": "general vim resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:24:30.554Z",
+    "last_updated": "2026-08-29T00:55:50.990Z",
     "original_repository_info": {
       "archived": false,
       "id": 540701823,
