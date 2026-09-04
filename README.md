@@ -123,7 +123,7 @@ there’s many markup languages to choose from:
 * [Djot](https://djot.net/) is a new attempt at refining Markdown.
 * [Fountain](https://fountain.io/) is a markup language for writing screenplays.
 * [LaTex](https://en.wikipedia.org/wiki/LaTeX) is the grandma of markup languages. Big and intimidating. Used in academia. A little beyond the scope for us.
-* [Typst](https://github.com/typst/typst) ⭐ 55,826 | 🐛 1,276 | 🌐 Rust | 📅 2026-09-03 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
+* [Typst](https://github.com/typst/typst) ⭐ 55,842 | 🐛 1,277 | 🌐 Rust | 📅 2026-09-03 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
 * [txt2tags](https://txt2tags.org/) super minimal markup language
 * [reStructuredText](https://docutils.sourceforge.io/rst.html) perhaps markdown’s main rival
 
@@ -136,14 +136,14 @@ This second step is optional.
 
 For information on installing plugins see this [video](http://vimcasts.org/episodes/packages/)
 
-* [vimwiki](https://github.com/vimwiki/vimwiki) ⭐ 9,517 | 🐛 230 | 🌐 Vim Script | 📅 2026-04-30. Personal Wiki for Vim
-* [vimtex](https://github.com/lervag/vimtex) ⭐ 6,352 | 🐛 5 | 🌐 TeX | 📅 2026-08-29. A modern Vim and neovim filetype plugin for LaTeX files
-* [goyo](https://github.com/junegunn/goyo.vim) ⭐ 4,688 | 🐛 80 | 🌐 Vim Script | 📅 2025-12-21. Distraction-free writing in Vim. Also [limelight](https://github.com/junegunn/limelight.vim) ⭐ 2,454 | 🐛 25 | 🌐 Vim Script | 📅 2026-03-09 by the same author
+* [vimwiki](https://github.com/vimwiki/vimwiki) ⭐ 9,519 | 🐛 230 | 🌐 Vim Script | 📅 2026-04-30. Personal Wiki for Vim
+* [vimtex](https://github.com/lervag/vimtex) ⭐ 6,352 | 🐛 4 | 🌐 TeX | 📅 2026-09-04. A modern Vim and neovim filetype plugin for LaTeX files
+* [goyo](https://github.com/junegunn/goyo.vim) ⭐ 4,687 | 🐛 80 | 🌐 Vim Script | 📅 2025-12-21. Distraction-free writing in Vim. Also [limelight](https://github.com/junegunn/limelight.vim) ⭐ 2,451 | 🐛 25 | 🌐 Vim Script | 📅 2026-03-09 by the same author
 * [abolish](https://github.com/tpope/vim-abolish) ⭐ 2,958 | 🐛 38 | 🌐 Vim Script | 📅 2024-08-07. Fancy find and replace :+1:
 * [targets.vim](https://github.com/wellle/targets.vim) ⭐ 2,643 | 🐛 58 | 🌐 Vim Script | 📅 2024-07-10. Vim plugin that provides extra text objects
-* [vim-pencil](https://github.com/preservim/vim-pencil) ⭐ 1,906 | 🐛 41 | 🌐 Vim Script | 📅 2023-04-03. Rethinking Vim as a tool for writing
+* [vim-pencil](https://github.com/preservim/vim-pencil) ⭐ 1,907 | 🐛 41 | 🌐 Vim Script | 📅 2023-04-03. Rethinking Vim as a tool for writing
 * [gundo](https://github.com/sjl/gundo.vim) ⭐ 1,469 | 🐛 3 | 🌐 Vim script | 📅 2022-01-29. Visual undo tree
-* [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 967 | 🐛 104 | 🌐 Vim Script | 📅 2025-11-07. Pandoc integration and utilities for vim
+* [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 966 | 🐛 104 | 🌐 Vim Script | 📅 2025-11-07. Pandoc integration and utilities for vim
 * [vim-exchange](https://github.com/tommcdo/vim-exchange) ⭐ 785 | 🐛 5 | 🌐 Vim Script | 📅 2024-01-21. Swap words when they’re in the order wrong. Vimcasts has a [tutorial](http://vimcasts.org/episodes/swapping-two-regions-of-text-with-exchange-vim/) :+1:
 * [vim-wordy](https://github.com/preservim/vim-wordy) ⭐ 724 | 🐛 14 | 🌐 Vim script | 📅 2022-02-13. Uncover usage problems in your writing
 * [nrrwrgn](https://github.com/chrisbra/NrrwRgn) ⭐ 707 | 🐛 13 | 🌐 Vim Script | 📅 2026-05-24. Focus on small region of text
@@ -180,7 +180,7 @@ writing). Here are some good light themes:
 
 ## general vim resources
 
-* [vim galore](https://github.com/mhinz/vim-galore) ⭐ 17,971 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
+* [vim galore](https://github.com/mhinz/vim-galore) ⭐ 17,969 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
 * [Idiomatic Vimrc: Advice on writing your own config](https://github.com/romainl/idiomatic-vimrc) ⭐ 1,196 | 🐛 0 | 📅 2023-05-19 - romainl
 * [A Vim Cheatsheet](https://learnxinyminutes.com/docs/vim/)
 * [And another one](https://vim.rtorr.com/)
@@ -209,4 +209,4 @@ Suggestions are welcome! Please create an issue.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
