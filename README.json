@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9519,
+            "stars": 9520,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -43,8 +43,8 @@
             "id": 13344397,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-09-04T18:48:02Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-05T14:22:05Z",
+            "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
             "stars": 6352,
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:22:43.777Z",
+    "last_updated": "2026-09-05T18:56:30.381Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
