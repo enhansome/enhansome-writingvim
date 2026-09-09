@@ -44,7 +44,7 @@
             "language": "TeX",
             "license": "MIT",
             "last_commit": "2026-09-05T14:22:05Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
             "stars": 6356,
@@ -275,7 +275,7 @@
             "open_issues": 13,
             "owner": "chrisbra",
             "repo": "NrrwRgn",
-            "stars": 707,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -431,7 +431,7 @@
             "open_issues": 1,
             "owner": "axvr",
             "repo": "org.vim",
-            "stars": 122,
+            "stars": 121,
             "topics": [
               "minimal",
               "org-mode",
@@ -718,7 +718,7 @@
             "open_issues": 2,
             "owner": "lifepillar",
             "repo": "vim-solarized8",
-            "stars": 1046,
+            "stars": 1045,
             "topics": [
               "color-scheme",
               "vim"
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17970,
+            "stars": 17972,
             "topics": [
               "awesome",
               "awesome-list",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "romainl",
             "repo": "idiomatic-vimrc",
-            "stars": 1197,
+            "stars": 1196,
             "topics": [
               "vim",
               "vimrc"
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:49:03.824Z",
+    "last_updated": "2026-09-09T19:39:55.210Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
