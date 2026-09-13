@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6360,
+            "stars": 6361,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -150,7 +150,7 @@
             "open_issues": 41,
             "owner": "preservim",
             "repo": "vim-pencil",
-            "stars": 1909,
+            "stars": 1908,
             "topics": [
               "asciidoc",
               "markdown",
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17974,
+            "stars": 17975,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:07:17.177Z",
+    "last_updated": "2026-09-13T19:17:01.113Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
