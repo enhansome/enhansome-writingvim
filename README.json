@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9519,
+            "stars": 9518,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6362,
+            "stars": 6361,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -681,7 +681,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1066,
+            "stars": 1067,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17976,
+            "stars": 17980,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:51:38.854Z",
+    "last_updated": "2026-09-15T20:06:28.091Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
