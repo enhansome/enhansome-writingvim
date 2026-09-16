@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9518,
+            "stars": 9519,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -100,7 +100,7 @@
             "open_issues": 38,
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2958,
+            "stars": 2959,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -431,7 +431,7 @@
             "open_issues": 1,
             "owner": "axvr",
             "repo": "org.vim",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "minimal",
               "org-mode",
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17980,
+            "stars": 17983,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:06:28.091Z",
+    "last_updated": "2026-09-16T19:57:49.480Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
