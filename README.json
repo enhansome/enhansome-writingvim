@@ -43,8 +43,8 @@
             "id": 13344397,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-09-14T13:28:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-18T07:05:51Z",
+            "open_issues": 3,
             "owner": "lervag",
             "repo": "vimtex",
             "stars": 6363,
@@ -718,7 +718,7 @@
             "open_issues": 2,
             "owner": "lifepillar",
             "repo": "vim-solarized8",
-            "stars": 1045,
+            "stars": 1044,
             "topics": [
               "color-scheme",
               "vim"
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17983,
+            "stars": 17985,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:09:05.723Z",
+    "last_updated": "2026-09-18T19:29:48.022Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
