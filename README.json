@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9519,
+            "stars": 9518,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -43,11 +43,11 @@
             "id": 13344397,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-09-19T15:23:32Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-25T12:16:41Z",
+            "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6371,
+            "stars": 6372,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -100,7 +100,7 @@
             "open_issues": 38,
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2960,
+            "stars": 2961,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17994,
+            "stars": 17996,
             "topics": [
               "awesome",
               "awesome-list",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "romainl",
             "repo": "idiomatic-vimrc",
-            "stars": 1197,
+            "stars": 1198,
             "topics": [
               "vim",
               "vimrc"
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:20:30.286Z",
+    "last_updated": "2026-09-25T20:21:59.355Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
