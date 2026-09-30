@@ -123,7 +123,7 @@ there’s many markup languages to choose from:
 * [Djot](https://djot.net/) is a new attempt at refining Markdown.
 * [Fountain](https://fountain.io/) is a markup language for writing screenplays.
 * [LaTex](https://en.wikipedia.org/wiki/LaTeX) is the grandma of markup languages. Big and intimidating. Used in academia. A little beyond the scope for us.
-* [Typst](https://github.com/typst/typst) ⭐ 56,340 | 🐛 1,286 | 🌐 Rust | 📅 2026-09-29 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
+* [Typst](https://github.com/typst/typst) ⭐ 56,349 | 🐛 1,282 | 🌐 Rust | 📅 2026-09-30 Typst is a new markup-based typesetting system designed to be “as powerful as LaTeX while being much easier to learn and use”
 * [txt2tags](https://txt2tags.org/) super minimal markup language
 * [reStructuredText](https://docutils.sourceforge.io/rst.html) perhaps markdown’s main rival
 
@@ -169,7 +169,7 @@ Thousands of colorschemes are available for vim, but
 most are for dark mode (which I find less suited for long-form
 writing). Here are some good light themes:
 
-* [vim-no-color-collection](https://github.com/mcchrish/vim-no-color-collections) ⭐ 1,070 | 🐛 1 | 📅 2026-01-25 Collection of Vim themes with barely any colors
+* [vim-no-color-collection](https://github.com/mcchrish/vim-no-color-collections) ⭐ 1,071 | 🐛 1 | 📅 2026-01-25 Collection of Vim themes with barely any colors
 * [Solarized8](https://github.com/lifepillar/vim-solarized8) ⚠️ Archived
 * [Pencil](https://github.com/preservim/vim-colors-pencil) ⭐ 619 | 🐛 4 | 🌐 Vim script | 📅 2022-05-07
 * [Lucius](https://github.com/jonathanfilip/vim-lucius) ⭐ 424 | 🐛 8 | 🌐 Vim script | 📅 2021-05-15
@@ -209,4 +209,4 @@ Suggestions are welcome! Please create an issue.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
