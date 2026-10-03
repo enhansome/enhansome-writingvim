@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9515,
+            "stars": 9514,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -705,7 +705,7 @@
         {
           "node_type": "item",
           "title": "Solarized8",
-          "description": null,
+          "description": "lifepillar/vim-solarized8",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -729,7 +729,7 @@
         {
           "node_type": "item",
           "title": "Pencil",
-          "description": null,
+          "description": "preservim/vim-colors-pencil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -756,7 +756,7 @@
         {
           "node_type": "item",
           "title": "Lucius",
-          "description": null,
+          "description": "jonathanfilip/vim-lucius",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -777,7 +777,7 @@
         {
           "node_type": "item",
           "title": "Paramount",
-          "description": null,
+          "description": "owickstrom/vim-colors-paramount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -830,7 +830,7 @@
         {
           "node_type": "item",
           "title": "vim galore",
-          "description": null,
+          "description": "mhinz/vim-galore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18007,
+            "stars": 18009,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:14:56.848Z",
+    "last_updated": "2026-10-03T05:17:28.232Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
