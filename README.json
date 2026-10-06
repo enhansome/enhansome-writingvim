@@ -19,7 +19,7 @@
             "open_issues": 231,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9513,
+            "stars": 9512,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -47,7 +47,7 @@
             "open_issues": 3,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6379,
+            "stars": 6380,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -76,7 +76,7 @@
             "open_issues": 80,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4690,
+            "stars": 4691,
             "topics": [
               "goyo",
               "vim"
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:06:14.486Z",
+    "last_updated": "2026-10-06T11:04:23.669Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
