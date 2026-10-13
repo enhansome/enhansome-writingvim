@@ -19,7 +19,7 @@
             "open_issues": 231,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9516,
+            "stars": 9512,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:33:54.935Z",
+    "last_updated": "2026-10-13T21:47:07.310Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
