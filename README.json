@@ -43,11 +43,11 @@
             "id": 13344397,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-10-18T09:56:55Z",
+            "last_commit": "2026-10-23T12:02:00Z",
             "open_issues": 4,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6397,
+            "stars": 6398,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -76,7 +76,7 @@
             "open_issues": 80,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4692,
+            "stars": 4691,
             "topics": [
               "goyo",
               "vim"
@@ -343,7 +343,7 @@
             "open_issues": 1,
             "owner": "wellle",
             "repo": "visual-split.vim",
-            "stars": 226,
+            "stars": 225,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18022,
+            "stars": 18021,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:27:53.473Z",
+    "last_updated": "2026-10-23T20:16:50.889Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
