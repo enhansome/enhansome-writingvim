@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9513,
+            "stars": 9515,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -275,7 +275,7 @@
             "open_issues": 13,
             "owner": "chrisbra",
             "repo": "NrrwRgn",
-            "stars": 708,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -681,7 +681,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1076,
+            "stars": 1077,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -801,9 +801,9 @@
           "description": "eyes:",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A light theme for (Neo)Vim, based on the colour of paper as found in various notebooks.",
-            "homepage": null,
+            "homepage": "https://codeberg.org/yorickpeterse/vim-paper",
             "id": 290607555,
             "language": "Vim Script",
             "license": "MPL-2.0",
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18032,
+            "stars": 18034,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:11:39.936Z",
+    "last_updated": "2026-10-28T21:35:21.742Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
