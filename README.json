@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9515,
+            "stars": 9514,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -43,8 +43,8 @@
             "id": 13344397,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-10-29T10:33:37Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T14:03:26Z",
+            "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
             "stars": 6405,
@@ -76,7 +76,7 @@
             "open_issues": 80,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4690,
+            "stars": 4689,
             "topics": [
               "goyo",
               "vim"
@@ -121,7 +121,7 @@
             "open_issues": 58,
             "owner": "wellle",
             "repo": "targets.vim",
-            "stars": 2642,
+            "stars": 2643,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18037,
+            "stars": 18036,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:42:35.446Z",
+    "last_updated": "2026-10-30T21:25:11.944Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
