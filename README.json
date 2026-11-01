@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6404,
+            "stars": 6405,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -76,7 +76,7 @@
             "open_issues": 80,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4689,
+            "stars": 4691,
             "topics": [
               "goyo",
               "vim"
@@ -180,7 +180,7 @@
             "open_issues": 3,
             "owner": "sjl",
             "repo": "gundo.vim",
-            "stars": 1469,
+            "stars": 1468,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -427,7 +427,7 @@
             "id": 172278522,
             "language": "Vim Script",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T20:23:35Z",
+            "last_commit": "2026-10-31T20:28:05Z",
             "open_issues": 1,
             "owner": "axvr",
             "repo": "org.vim",
@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18035,
+            "stars": 18037,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:25:36.360Z",
+    "last_updated": "2026-11-01T21:03:26.376Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
