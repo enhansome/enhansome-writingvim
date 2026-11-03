@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9515,
+            "stars": 9516,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6406,
+            "stars": 6408,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -100,7 +100,7 @@
             "open_issues": 38,
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2962,
+            "stars": 2963,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -422,18 +422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Org mode syntax highlighting and folding for Vim.",
-            "homepage": null,
+            "description": "Mirror of https://codeberg.org/axvr/org.vim",
+            "homepage": "https://codeberg.org/axvr/org.vim",
             "id": 172278522,
             "language": "Vim Script",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T20:28:05Z",
+            "last_commit": "2026-11-03T17:59:08Z",
             "open_issues": 1,
             "owner": "axvr",
             "repo": "org.vim",
             "stars": 123,
             "topics": [
-              "minimal",
               "org-mode",
               "outline-mode",
               "syntax-highlighting",
@@ -681,7 +680,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1077,
+            "stars": 1076,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -889,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:49:56.164Z",
+    "last_updated": "2026-11-03T22:15:17.903Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
