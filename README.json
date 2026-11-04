@@ -16,10 +16,10 @@
             "language": "Vim Script",
             "license": "NOASSERTION",
             "last_commit": "2026-04-30T18:15:10Z",
-            "open_issues": 230,
+            "open_issues": 232,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9516,
+            "stars": 9517,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6408,
+            "stars": 6409,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -121,7 +121,7 @@
             "open_issues": 58,
             "owner": "wellle",
             "repo": "targets.vim",
-            "stars": 2643,
+            "stars": 2644,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -427,7 +427,7 @@
             "id": 172278522,
             "language": "Vim Script",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T17:59:08Z",
+            "last_commit": "2026-11-04T11:28:00Z",
             "open_issues": 1,
             "owner": "axvr",
             "repo": "org.vim",
@@ -842,7 +842,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18040,
+            "stars": 18042,
             "topics": [
               "awesome",
               "awesome-list",
@@ -875,7 +875,7 @@
             "open_issues": 0,
             "owner": "romainl",
             "repo": "idiomatic-vimrc",
-            "stars": 1198,
+            "stars": 1199,
             "topics": [
               "vim",
               "vimrc"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:15:17.903Z",
+    "last_updated": "2026-11-04T22:30:33.931Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
