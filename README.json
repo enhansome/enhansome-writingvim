@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6409,
+            "stars": 6411,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -121,7 +121,7 @@
             "open_issues": 58,
             "owner": "wellle",
             "repo": "targets.vim",
-            "stars": 2644,
+            "stars": 2645,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:30:33.931Z",
+    "last_updated": "2026-11-05T22:37:56.098Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
