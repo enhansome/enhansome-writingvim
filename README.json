@@ -76,7 +76,7 @@
             "open_issues": 80,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4691,
+            "stars": 4689,
             "topics": [
               "goyo",
               "vim"
@@ -121,7 +121,7 @@
             "open_issues": 58,
             "owner": "wellle",
             "repo": "targets.vim",
-            "stars": 2645,
+            "stars": 2643,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:45:41.842Z",
+    "last_updated": "2026-11-08T21:01:30.310Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
