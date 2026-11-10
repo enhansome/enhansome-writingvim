@@ -19,7 +19,7 @@
             "open_issues": 232,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9516,
+            "stars": 9518,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6411,
+            "stars": 6412,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -100,7 +100,7 @@
             "open_issues": 38,
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2963,
+            "stars": 2962,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -121,7 +121,7 @@
             "open_issues": 58,
             "owner": "wellle",
             "repo": "targets.vim",
-            "stars": 2643,
+            "stars": 2644,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -275,7 +275,7 @@
             "open_issues": 13,
             "owner": "chrisbra",
             "repo": "NrrwRgn",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -553,7 +553,7 @@
             "open_issues": 0,
             "owner": "kblin",
             "repo": "vim-fountain",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -842,7 +842,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18049,
+            "stars": 18052,
             "topics": [
               "awesome",
               "awesome-list",
@@ -875,7 +875,7 @@
             "open_issues": 0,
             "owner": "romainl",
             "repo": "idiomatic-vimrc",
-            "stars": 1200,
+            "stars": 1201,
             "topics": [
               "vim",
               "vimrc"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:37:57.189Z",
+    "last_updated": "2026-11-10T22:15:11.790Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
