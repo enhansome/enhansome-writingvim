@@ -19,7 +19,7 @@
             "open_issues": 233,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9518,
+            "stars": 9520,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -43,7 +43,7 @@
             "id": 13344397,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-11-06T07:38:05Z",
+            "last_commit": "2026-11-13T14:25:59Z",
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
@@ -73,7 +73,7 @@
             "language": "Vim Script",
             "license": "MIT",
             "last_commit": "2025-12-21T09:46:00Z",
-            "open_issues": 80,
+            "open_issues": 79,
             "owner": "junegunn",
             "repo": "goyo.vim",
             "stars": 4689,
@@ -150,7 +150,7 @@
             "open_issues": 41,
             "owner": "preservim",
             "repo": "vim-pencil",
-            "stars": 1914,
+            "stars": 1915,
             "topics": [
               "asciidoc",
               "markdown",
@@ -842,7 +842,7 @@
             "open_issues": 14,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18053,
+            "stars": 18052,
             "topics": [
               "awesome",
               "awesome-list",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:39:48.038Z",
+    "last_updated": "2026-11-13T22:27:50.764Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
