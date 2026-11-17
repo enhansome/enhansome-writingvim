@@ -19,7 +19,7 @@
             "open_issues": 233,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9523,
+            "stars": 9524,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6416,
+            "stars": 6414,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -100,7 +100,7 @@
             "open_issues": 38,
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2962,
+            "stars": 2963,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -198,7 +198,7 @@
             "language": "Vim Script",
             "license": "MIT",
             "last_commit": "2025-11-07T12:41:19Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "vim-pandoc",
             "repo": "vim-pandoc",
             "stars": 966,
@@ -680,7 +680,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1078,
+            "stars": 1079,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -842,7 +842,7 @@
             "open_issues": 14,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18058,
+            "stars": 18059,
             "topics": [
               "awesome",
               "awesome-list",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:42:35.195Z",
+    "last_updated": "2026-11-17T23:48:00.843Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
