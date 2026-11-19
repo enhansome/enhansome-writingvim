@@ -76,7 +76,7 @@
             "open_issues": 79,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4690,
+            "stars": 4689,
             "topics": [
               "goyo",
               "vim"
@@ -121,7 +121,7 @@
             "open_issues": 58,
             "owner": "wellle",
             "repo": "targets.vim",
-            "stars": 2643,
+            "stars": 2642,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -228,7 +228,7 @@
             "open_issues": 4,
             "owner": "tommcdo",
             "repo": "vim-exchange",
-            "stars": 785,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -275,7 +275,7 @@
             "open_issues": 13,
             "owner": "chrisbra",
             "repo": "NrrwRgn",
-            "stars": 711,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -680,7 +680,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -717,7 +717,7 @@
             "open_issues": 2,
             "owner": "lifepillar",
             "repo": "vim-solarized8",
-            "stars": 1044,
+            "stars": 1043,
             "topics": [
               "color-scheme",
               "vim"
@@ -875,7 +875,7 @@
             "open_issues": 0,
             "owner": "romainl",
             "repo": "idiomatic-vimrc",
-            "stars": 1201,
+            "stars": 1200,
             "topics": [
               "vim",
               "vimrc"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:20:25.094Z",
+    "last_updated": "2026-11-19T23:27:59.279Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
