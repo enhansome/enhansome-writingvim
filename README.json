@@ -43,11 +43,11 @@
             "id": 13344397,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-11-13T14:25:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-20T13:16:33Z",
+            "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6413,
+            "stars": 6414,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -100,7 +100,7 @@
             "open_issues": 38,
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2964,
+            "stars": 2967,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -150,7 +150,7 @@
             "open_issues": 41,
             "owner": "preservim",
             "repo": "vim-pencil",
-            "stars": 1916,
+            "stars": 1912,
             "topics": [
               "asciidoc",
               "markdown",
@@ -228,7 +228,7 @@
             "open_issues": 4,
             "owner": "tommcdo",
             "repo": "vim-exchange",
-            "stars": 786,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -249,7 +249,7 @@
             "open_issues": 14,
             "owner": "preservim",
             "repo": "vim-wordy",
-            "stars": 724,
+            "stars": 721,
             "topics": [
               "prose",
               "vim",
@@ -842,7 +842,7 @@
             "open_issues": 14,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18061,
+            "stars": 18062,
             "topics": [
               "awesome",
               "awesome-list",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:27:59.279Z",
+    "last_updated": "2026-11-20T23:01:07.180Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
