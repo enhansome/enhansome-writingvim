@@ -19,7 +19,7 @@
             "open_issues": 233,
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9523,
+            "stars": 9524,
             "topics": [
               "hacktoberfest",
               "personal-organizer",
@@ -100,7 +100,7 @@
             "open_issues": 38,
             "owner": "tpope",
             "repo": "vim-abolish",
-            "stars": 2967,
+            "stars": 2966,
             "topics": []
           },
           "first_seen": "2026-08-29T00:55:50.990Z"
@@ -367,8 +367,8 @@
             "homepage": null,
             "id": 64102218,
             "language": "Vim script",
-            "license": null,
-            "last_commit": "2018-01-10T23:23:13Z",
+            "license": "Vim",
+            "last_commit": "2026-11-21T21:12:06Z",
             "open_issues": 1,
             "owner": "dbmrq",
             "repo": "vim-ditto",
@@ -680,7 +680,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -842,7 +842,7 @@
             "open_issues": 14,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18062,
+            "stars": 18063,
             "topics": [
               "awesome",
               "awesome-list",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:01:07.180Z",
+    "last_updated": "2026-11-21T22:06:37.098Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
