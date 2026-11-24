@@ -76,7 +76,7 @@
             "open_issues": 79,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4689,
+            "stars": 4687,
             "topics": [
               "goyo",
               "vim"
@@ -369,10 +369,10 @@
             "language": "Python",
             "license": "Vim",
             "last_commit": "2026-11-21T21:12:06Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "dbmrq",
             "repo": "vim-ditto",
-            "stars": 184,
+            "stars": 183,
             "topics": [
               "check",
               "highlighting",
@@ -842,7 +842,7 @@
             "open_issues": 14,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18066,
+            "stars": 18067,
             "topics": [
               "awesome",
               "awesome-list",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:21:58.862Z",
+    "last_updated": "2026-11-24T03:13:52.996Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
