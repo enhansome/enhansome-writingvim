@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "lervag",
             "repo": "vimtex",
-            "stars": 6414,
+            "stars": 6416,
             "topics": [
               "filetype-plugin",
               "latex",
@@ -76,7 +76,7 @@
             "open_issues": 79,
             "owner": "junegunn",
             "repo": "goyo.vim",
-            "stars": 4687,
+            "stars": 4688,
             "topics": [
               "goyo",
               "vim"
@@ -680,7 +680,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1082,
+            "stars": 1081,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:53:56.050Z",
+    "last_updated": "2026-11-27T00:58:38.545Z",
     "original_repository_info": {
       "archived": false,
       "description": ":memo: An awesome-ish list of vim for writers",
